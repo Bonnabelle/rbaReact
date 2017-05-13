@@ -1,0 +1,10 @@
+newmtl Baseplate1Mtl
+Material Color
+Ka 0 1 0
+Kd 0 1 0
+Ks 0 0.168627 0 
+
+d 1
+
+Ns 4590
+
